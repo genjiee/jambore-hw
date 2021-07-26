@@ -1,2 +1,2 @@
 # go-startup
-Sebuah projek yang dikerjakan oleh tiga saudara
+Sebuah projek yang dikerjakan oleh tiga bersaudara
